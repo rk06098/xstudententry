@@ -62,10 +62,10 @@ function App() {
               onChange={handleChange}
             >
               <option value="">Select grade</option>
-              <option value="Class 6">Class 6</option>
-              <option value="Class 7">Class 7</option>
-              <option value="Class 8">Class 8</option>
-              <option value="Class 9">Class 9</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
             </select>
           </div>
         </div>
