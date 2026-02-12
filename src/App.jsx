@@ -92,7 +92,7 @@ function App() {
                 <tr key={i}>
                   <td>{s.name}</td>
                   <td>{s.age}</td>
-                  <td>{s.grade}</td>
+                  <td>Class {s.grade}</td>
                   <td>
                     <button
                       className="remove"
